@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.desc || 'A one day conference in Brighton for people building digital products' }}">
+
+  <link rel="author" href="humans.txt" />
+
+  <link rel="apple-touch-icon-precomposed" href="/images/favicon-152.png">
+  <meta name="msapplication-TileColor" content="#0096FF">
+  <meta name="msapplication-TileImage" content="/images/favicon-144.png">
+  <meta name="application-name" content="{{ site.name }}">
+
+  <link rel="stylesheet" href="/css/ltvconf.css">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Fjalla+One&text=LifeTimeValue" type="text/css">
+</head>
+
+<body>
+
+<div class="siteheader">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-sm-offset-3 col-sm-9">
+        <p class="lead">Wednesday, 6th July 2016</p>
+        <h1 class="display-1">
+          Life<span style="opacity:0.8">Time</span><span style="opacity:1.0">Value</span><br />
+        </h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-offset-3 col-sm-9 col-md-8 col-lg-7">
+        <p class="lead">A conference for people making independant, digital product businesses</p>
+        <p>
+          <br />
+          <a href="https://ti.to/goodscary/life-time-value-2016" class="btn btn-outline-inverse btn-lg">Buy Tickets</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+  {{ content }}
+</div>
+
+<div class="container-fluid">
+  <footer role="contentinfo">
+    <div class="row">
+      <div class="col-sm-offset-3 col-sm-9">
+        <hr />
+        <p><a href="http://twitter.com/LTVConf">@LTVConf</a></p>
+        <p><small><a href="http://goodscary.com">A Good Scary Production</a></small></p>
+      </div>
+    </div>
+  </footer>
+</div>
+
+<script type="text/javascript">
+  var _gauges = _gauges || [];
+  (function() {
+    var t   = document.createElement('script');
+    t.type  = 'text/javascript';
+    t.async = true;
+    t.id    = 'gauges-tracker';
+    t.setAttribute('data-site-id', '52efa5f95dd053046b0003c4');
+    t.src = '//secure.gaug.es/track.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+  })();
+</script>
+</body>
+</html>

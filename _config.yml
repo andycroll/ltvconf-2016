@@ -1,0 +1,12 @@
+name: Life Time Value Conference 2016
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+permalink: /:year/:title/
+
+sass:
+  style: :compressed
+
+collections:
+  misc:
+    output: true
+    permalink: /misc/:path/
