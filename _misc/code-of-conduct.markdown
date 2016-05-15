@@ -13,7 +13,7 @@ Life Time Value Conference is a harassment-free experience for everyone, regardl
 
 Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Anyone violating these rules may be expelled from the conference *without a refund* at the discretion of the conference organisers. _Just don't do it._
 
-If you have any questions, email the organisers at [andy@goodscary.com](mailto:andy@goodscary.com) or [jon@inuda.com](jon@inuda.com)
+If you have any questions, email the organisers at [andy@goodscary.com](mailto:andy@goodscary.com) or [jon@inuda.com](jon@inuda.com). Or call +447446858575 (Andy) or +447766021485 (Jon).
 
 #### The Less Quick Version
 
