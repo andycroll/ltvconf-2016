@@ -1,4 +1,4 @@
-name: Life Time Value Conference 2016
+name: Life Time Value Conference 2017
 
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
 permalink: /:year/:title/
