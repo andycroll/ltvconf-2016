@@ -10,3 +10,9 @@ collections:
   misc:
     output: true
     permalink: /misc/:path/
+
+assets:
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
